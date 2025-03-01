@@ -1,4 +1,7 @@
 body {
-    background-color: lightblue;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-  }
+    background-color: #f8f9fa; /* Light gray for a clean look */
+    font-family: 'Poppins', sans-serif; /* Modern, readable font */
+    color: #333; /* Dark gray text for better readability */
+    margin: 0;
+    padding: 0;
+}
